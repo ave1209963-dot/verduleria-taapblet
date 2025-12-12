@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Filtro para báscula Torrey PCR-40 -->
+    <!-- VID: 0483 (STMicroelectronics) -->
+    <!-- PID: 5740 (Virtual COM Port) -->
+    <usb-device vendor-id="1155" product-id="22336" />
+    
+    <!-- Formato alternativo (decimal) -->
+    <!-- vendor-id: 0x0483 = 1155 -->
+    <!-- product-id: 0x5740 = 22336 -->
+</resources>

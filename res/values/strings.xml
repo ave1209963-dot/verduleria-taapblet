@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mr Verduli POS</string>
+    <string name="peso_actual">Peso Actual</string>
+    <string name="conectar">Conectar</string>
+    <string name="desconectar">Desconectar</string>
+    <string name="cobrar">Cobrar</string>
+    <string name="carrito">Carrito</string>
+    <string name="total">Total</string>
+    <string name="bascula">Báscula</string>
+    <string name="conectada">Conectada</string>
+    <string name="desconectada">Desconectada</string>
+</resources>
